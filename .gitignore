@@ -1,0 +1,17 @@
+/.idea
+node_modules/
+
+/node_modules
+
+/uploads
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# System Files
+.DS_Store
+Thumbs.db
